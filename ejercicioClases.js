@@ -17,4 +17,4 @@ SI clase1 == Lunes o Miercoles ENTONCES
                     FIN-SI
             FIN-SI
     FIN-SI
-FIN
+FIN.

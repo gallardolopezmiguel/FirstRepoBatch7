@@ -13,6 +13,6 @@ SINO
     FIN SI
 FIN SI
 
-FIN
+FIN.
 
 
