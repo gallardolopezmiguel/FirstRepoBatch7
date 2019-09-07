@@ -10,4 +10,4 @@ SI contraseña es correcta Entonces
     ESCRIBE "Acceso Correcto"
     SINO "Terminar
     FIN-SI
-FIN.
+FIN

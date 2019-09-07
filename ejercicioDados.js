@@ -13,6 +13,6 @@ SI shot1 == shot2 ENTONCES
             FIN-SI        
     FIN-SI
 FIN-SI
-FIN  .      
+FIN      
 
 
